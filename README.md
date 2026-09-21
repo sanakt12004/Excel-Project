@@ -29,6 +29,11 @@ This project was developed using Microsoft Excel, incorporating data cleaning, f
 •	Ewallet is the most-used payment method with 1,785 transactions (35.33%).
 •	Food & Beverages has the highest quantity sold (7,309) and the highest average rating (7.08/10), despite not being the top revenue category.
 •	Queens has the highest average order value at ₹201.19, even though Brooklyn has the highest total sales.
+
 6.Dashboard Purpose
 The purpose of this dashboard is to analyze and visualize supermarket sales performance through key KPIs, monthly trends, branch-wise sales, customer types, product lines, and payment methods. Interactive filters make it easier to explore the data and identify important sales patterns and insights 
+
+Original Data Source : https://www.kaggle.com/datas
+ets/hanif13/supermarket-sale
+s
  

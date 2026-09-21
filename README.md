@@ -1,9 +1,11 @@
            README-SUPERMARKET SALES ANALYSIS
 1.Title:-
 SuperMarket Sales Analysis
+
 2. Dataset Description:-
 This project analyzes supermarket sales data to understand sales performance, customer behavior, product performance, payment methods, and profitability.
 The analysis is performed using Microsoft Excel with tables, formulas, pivot tables, charts, and an interactive dashboard.
+
 3.Business Questions:-
 The project focuses on the following business questions;
 1. Which branch generates the highest sales?
